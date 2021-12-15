@@ -1,0 +1,13 @@
+.divContent {
+	position: relative;
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+}
+
+.divContent p {
+	font-size: 12pt;
+	font-weight: bolder;
+	margin: 2px;
+	padding: auto;
+}
