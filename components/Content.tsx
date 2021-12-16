@@ -7,7 +7,7 @@ const Content = ():JSX.Element => {
 
 			<p>Visitante</p>
 			<p>Posto Santa Rosa</p>
-			<p>56</p>
+			<p>Leito 56</p>
 		</div>
 	)
 }

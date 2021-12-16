@@ -8,10 +8,10 @@ const Footer = ():JSX.Element => {
 				É permitida visita de pessoas com idade igual ou maior a 18 anos.
 			</p>
 			<p className={styles.pFooter}>
-				A visita de outro familiar será condicionada a devolução deste.
+				A visita de outro familiar será condicionada à devolução deste.
 			</p>
 			<p className={styles.pFooter}>
-				Horário de visita esta sujeito a alterações conforme a rotina.
+				Horário de visita está sujeito a alterações conforme a rotina.
 			</p>
 		</div>
 	)

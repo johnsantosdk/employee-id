@@ -8,7 +8,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 
 const Home: NextPage = (): JSX.Element => {
   return (
-		<div className={styles.principal}>
+		<div className={styles.container}>
 			<ContentForm />
 			<Card />
 		</div>
